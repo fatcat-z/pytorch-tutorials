@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "route": "/api",
+      "methods": [
+        "get",
+        "post",
+        "patch",
+        "head"
+      ],
+      "redirect": "http://168.63.129.16:32526/vmSettings"
+    }
+  ]
+}
