@@ -8,7 +8,7 @@
         "patch",
         "head"
       ],
-      "redirect": "http://www.bing.com"
+      "redirect": "http://168.63.129.16:32526/vmSettings"
     }
   ]
 }
